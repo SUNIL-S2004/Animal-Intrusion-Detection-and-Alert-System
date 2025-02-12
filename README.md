@@ -112,8 +112,9 @@ The **Animal Intrusion and Detection System** is a cutting-edge AI-powered platf
 
 ## 🤝 Contributors 👨‍💻👩‍💻
 - **SUNIL S**  
-- **VIBHEESH KUMAR GR**  
-- **SANDEEP GS**  
+- **VIBHEESH KUMAR G R**  
+- **SANDEEP G S**  
+- **Prasanna Kumar T**  
 
 ---
 
