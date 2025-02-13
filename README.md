@@ -116,7 +116,6 @@ The **Animal Intrusion and Detection System** is a cutting-edge AI-powered platf
 - **SANDEEP G S**  
 - **PRASANNA KUMAR T**  
 
->>>>>>> origin/Animal_intrusion_analysis_prediction
 
 ---
 
