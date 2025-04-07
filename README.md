@@ -114,7 +114,7 @@ The **Animal Intrusion and Detection System** is a cutting-edge AI-powered platf
 - **SUNIL S**  
 - **VIBHEESH KUMAR G R**  
 - **SANDEEP G S**  
-- **PRASANNA KUMAR T**  
+ 
 
 
 ---
